@@ -19,7 +19,7 @@ To use the API, you must, first of all, have Yo! Payments Business Account. The 
 
 4. Click on Yo! Payments gateway.It will take you to the settings page. Fill in the details in the form. Contact your YO! Payments relationship manager for these details if you haven't obtained them already. Save changes to submit the form.
 
-5. Congratulations! Your Woo Commerce site is now fully integrated! Try testing it buy checking out items. You should view the USSD prompt asking for your mobile money PIN.
+5. Congratulations! Your Woo Commerce site is now fully integrated! Try testing it by checking out items. You should view the USSD prompt asking for your mobile money PIN.
 
 ## Where to Seek Support
 
